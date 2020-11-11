@@ -1,0 +1,8 @@
+1. First, the cube jumps two times, then it prepares to have a little run, after the run, stops, almost falling, then returns to its original position and then sneeze?.
+
+2.I tried to implement:
+-Squash and stretch
+-Anticipation
+-Follow through and overlapping action
+
+3.I tried to convey happiness
